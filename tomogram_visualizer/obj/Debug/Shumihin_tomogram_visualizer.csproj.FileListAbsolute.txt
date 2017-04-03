@@ -1,0 +1,42 @@
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.exe.config
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.exe
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.pdb
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.dll
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.pdb
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.xml
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.Form1.resources
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.Properties.Resources.resources
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.csproj.GenerateResource.Cache
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.exe
+D:\Programming\C#\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.pdb
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.exe.config
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.exe
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.pdb
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.exe
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.pdb
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.csprojResolveAssemblyReference.cache
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.Form1.resources
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.Properties.Resources.resources
+C:\Users\Georgy\Desktop\Серёга КГ\Shumihin_tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.csproj.GenerateResource.Cache
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.exe.config
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.exe
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.pdb
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.exe
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\Shumihin_tomogram_visualizer.pdb
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.csprojResolveAssemblyReference.cache
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.Form1.resources
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.Properties.Resources.resources
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\tomogram_visualizer\Shumihin_tomogram_visualizer\obj\Debug\Shumihin_tomogram_visualizer.csproj.GenerateResource.Cache
